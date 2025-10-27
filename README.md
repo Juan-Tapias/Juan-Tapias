@@ -13,9 +13,6 @@
 </div>
 
 <div align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&label=Twitter&color=0B0A10&logoColor=9F43BF&style=for-the-badge" alt="Twitter"/>
-  </a>
   <a href="https://instagram.com/juan.martinez1925" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-juan.martinez1925-9F43BF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
