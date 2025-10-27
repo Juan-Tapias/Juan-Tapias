@@ -1,47 +1,61 @@
-<h1 align="center">Hi 👋, I'm Juan Sebastián Martínez Tapias</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Tailwind;Always+Learning&center=true&size=30&duration=3000" alt="typing animation" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9F43BF&center=true&vCenter=true&width=500&lines=Juan+Sebastián+Martínez+Tapias" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juan-tapias&show_icons=true&theme=radical" alt="juan-tapias stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-tapias&layout=compact&theme=radical" alt="juan-tapias top langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-tapias&theme=radical" alt="juan-tapias streak" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=juan-tapias&label=Profile%20views&color=9f43bf&style=flat" alt="Profile views" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated-gifs/typing.gif" alt="typing animation" width="300" />
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=juan-tapias&theme=discord&margin-w=6&margin-h=6" alt="GitHub trophies"/>
+  </a>
+</div>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<div align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&label=Twitter&color=0B0A10&logoColor=9F43BF&style=for-the-badge" alt="Twitter"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
   <a href="https://instagram.com/juan.martinez1925" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-juan.martinez1925-9F43BF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.hackerrank.com/juan%20sebastian%20martinez" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  <a href="https://www.hackerrank.com/juan sebastian martinez" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Juan%20Sebastián%20Martínez-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
   </a>
   <a href="https://discord.gg/lado4376" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Discord-lado4376-5865F2?style=for-the-badge&logo=discord" alt="Discord"/>
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juan-tapias&label=Profile%20views&color=0e75b6&style=flat" alt="juan-tapias" />
-</p>
+---
+
+<div align="left">
+
+### 👨‍💻 Sobre mí
+
+- 🌱 Actualmente aprendiendo **HTML, CSS, JavaScript y Git**
+- 📫 Puedes contactarme en **jmartineztapias15@gmail.com**
+
+---
+
+### 🛠️ Habilidades de Programación
+
+<div align="center" style="background:#0b0a10; padding:16px; border-radius:12px;">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,git,javascript,java,typescript,mysql,postgresql,spring,react,tailwind&theme=dark" alt="Habilidades" />
+</div>
+
+---
+
+### 📊 Estadísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-tapias&layout=compact&theme=midnight-purple" alt="Top languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=juan-tapias&show_icons=true&theme=midnight-purple" alt="GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-tapias&theme=midnight-purple" alt="GitHub streak" />
+</div>
+
+---
+
+</div>
