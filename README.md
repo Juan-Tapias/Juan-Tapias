@@ -1,15 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9F43BF&center=true&vCenter=true&width=500&lines=Juan+Sebastián+Martínez+Tapias" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=juan-tapias&label=Profile%20views&color=9f43bf&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=juan-tapias&theme=discord&margin-w=6&margin-h=6" alt="GitHub trophies"/>
-  </a>
 </div>
 
 <div align="center">
