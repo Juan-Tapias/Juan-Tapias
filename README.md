@@ -1,11 +1,21 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Banner Coding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Coding Banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A931E6&center=true&vCenter=true&width=435&lines=Juan+Sebasti%C3%A1n+M.;Backend+Developer+%F0%9F%9A%80;Java+%7C+Python+%7C+Spring;Creando+el+futuro+del+web..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A931E6&center=true&vCenter=true&width=435&lines=Juan+Sebasti%C3%A1n+M.;Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Python+%7C+React;Creando+soluciones+digitales..." alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <br />
+  <a href="https://portafolio2-rose.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_VISITAR_MI_PORTAFOLIO-VER_PROYECTOS_ONLINE-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7928CA" height="40" alt="Portafolio Web" />
+  </a>
+  <br />
+  <sub>👆 Haz clic aquí para ver mis mejores trabajos 👆</sub>
+  <br /><br />
 </div>
 
 <div align="center">
@@ -31,20 +41,18 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
+      <td width="55%" align="left">
         <h3>⚡ Sobre mí</h3>
-        <p align="left">
-           👋 Soy un apasionado por la lógica y la arquitectura de software. Mi enfoque está en construir sistemas robustos y escalables.
+        <p>
+           👋 Soy un apasionado por la lógica y el desarrollo web. Mi enfoque está en construir sistemas robustos, escalables y con interfaces limpias.
            <br><br>
-           🚀 <b>Actualmente:</b> Profundizando en Microservicios y Cloud.
+           🚀 <b>Stack Principal:</b> Java (Spring) & JavaScript (React).
            <br>
-           💡 <b>Meta:</b> Convertirme en Full Stack Senior.
-           <br>
-           📫 <b>Contáctame:</b> jmartineztapias15@gmail.com
+           🎯 <b>Objetivo:</b> Crear experiencias web de alto impacto.
         </p>
       </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRteGJkcGhtemI5Z3RwbXZ6b3Zrb2g4Z3RwbXZ6b3Zrb2g4Z3RwbXZ6b3Zrb2g4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceKoyYc3r/giphy.gif" width="200px" alt="Coding Gif" />
+      <td width="45%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRteGJkcGhtemI5Z3RwbXZ6b3Zrb2g4Z3RwbXZ6b3Zrb2g4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceKoyYc3r/giphy.gif" width="100%" style="max-width:200px; border-radius:10px;" alt="Coding Gif" />
       </td>
     </tr>
   </table>
@@ -65,33 +73,15 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" /><br>Spring
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" /><br>FastAPI
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" /><br>Postgres
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=js" width="48" /><br>JS
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=react" width="48" /><br>React
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git
-      </td>
+      <td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="40" /><br>Java</td>
+      <td align="center" width="80"><img src="https://skillicons.dev/icons?i=spring" width="40" /><br>Spring</td>
+      <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python</td>
+      <td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="40" /><br>JS</td>
+      <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="40" /><br>React</td>
+      <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML5</td>
+      <td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS3</td>
+      <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git</td>
+      <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL</td>
     </tr>
   </table>
 </div>
@@ -109,12 +99,7 @@
       </td>
     </tr>
   </table>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-tapias&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&width=600" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/juan-tapias/juan-tapias/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
