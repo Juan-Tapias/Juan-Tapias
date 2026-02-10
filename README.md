@@ -34,55 +34,34 @@
 <br />
 
 <div align="center">
+  <h3>⚡ Sobre mí</h3>
+  <p>
+     👋 Desarrollador enfocado en construir sistemas escalables y modernos.
+     <br>
+     🛠️ <b>Stack:</b> Java (Spring), Python, React.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🛠️ Tech Stack & Herramientas</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,js,react,html,css,git&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="left">
-        <h3>⚡ Sobre mí</h3>
-        <p>
-           👋 Desarrollador enfocado en resultados. 
-           <br>
-           Construyo sistemas escalables y interfaces modernas.
-           <br><br>
-           🛠️ <b>Stack:</b> Java (Spring), Python, React.
-           <br>
-           🎯 <b>Meta:</b> Full Stack Senior.
-        </p>
-      </td>
-      <td width="50%" align="center">
+      <td align="center">
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-tapias&theme=radical&hide_border=true&background=0D1117" alt="Juan's Streak" />
       </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <h3>📈 Métricas de GitHub</h3>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juan-tapias&theme=radical" alt="Profile Details" />
-  
-  <br><br>
-  
-  <table border="0">
-    <tr>
-      <td>
+      <td align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juan-tapias&theme=radical" alt="Repos per Language" />
       </td>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juan-tapias&theme=radical" alt="Productive Time" />
-      </td>
     </tr>
   </table>
-</div>
-
----
-
-<h3 align="center">🛠️ Herramientas</h3>
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,js,react,html,css,git&theme=dark" />
-  </p>
 </div>
 
 <br/>
