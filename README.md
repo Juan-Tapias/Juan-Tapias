@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/✨_VISITAR_MI_PORTAFOLIO-VER_PROYECTOS_ONLINE-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7928CA" height="40" alt="Portafolio Web" />
   </a>
   <br />
-  <sub>👆 Haz clic aquí para ver mis mejores trabajos 👆</sub>
+  <sub>👆 Haz clic para ver mis mejores trabajos 👆</sub>
   <br /><br />
 </div>
 
@@ -63,7 +63,7 @@
 <div align="center">
   <h3>🏆 Logros Desbloqueados</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=juan-tapias&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="juan-tapias" />
+    <img src="https://github-profile-trophy.vercel.app/?username=juan-tapias&theme=radical&no-frame=true&no-bg=true&margin-w=4&refresh=1" alt="juan-tapias trophies" />
   </a>
 </div>
 
@@ -92,14 +92,19 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=juan-tapias&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Juan's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=juan-tapias&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_buster=2" alt="Juan's Stats" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-tapias&theme=radical&hide_border=true&background=0D1117" alt="Juan's Streak" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-tapias&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&width=600" alt="Top Langs" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-tapias&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&width=600&refresh=2" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/juan-tapias/juan-tapias/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
