@@ -1,138 +1,110 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          [ INITIALIZING PROFILE... ]                 ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00F5FF&height=180&section=header&text=Juan%20Sebastián%20Martínez&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Juan+Sebasti%C3%A1n+Mart%C3%ADnez;Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Python;React+%7C+TypeScript+%7C+FastAPI;Building+scalable+systems..." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Backend+Specialist;Java+%7C+Spring+Boot+%7C+Python;React+%7C+TypeScript;Building+Scalable+Systems..." />
 
 <br/>
 
-![](https://img.shields.io/badge/Backend-Java%20·%20Spring%20Boot-00F5FF?style=flat-square&labelColor=0a0a0f)
-![](https://img.shields.io/badge/Backend-Python%20·%20FastAPI-FF2D78?style=flat-square&labelColor=0a0a0f)
-![](https://img.shields.io/badge/Frontend-React%20·%20TypeScript-B84FFF?style=flat-square&labelColor=0a0a0f)
-![](https://img.shields.io/badge/DB-PostgreSQL%20·%20MySQL-39FF14?style=flat-square&labelColor=0a0a0f)
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,ts,postgres,mysql,docker,git&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20ARCHITECTURE-00F5FF?style=for-the-badge&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF2D78?style=for-the-badge&labelColor=0a0a0f"/>
 
 </div>
 
 ---
 
-## ⚡ ABOUT ME
+## 🧬 SYSTEM PROFILE
 
 ```bash
-$ whoami
+> initializing developer profile...
 ```
 
-Soy un desarrollador enfocado en construir **sistemas escalables y APIs robustas**.  
-Trabajo en todo el stack, con especial enfoque en backend y arquitectura.
+```yaml
+name: Juan Sebastián Martínez
+role: Fullstack Developer
+location: Colombia 🇨🇴
 
-✔️ Experiencia construyendo sistemas reales desde cero  
-✔️ Enfoque en rendimiento, mantenibilidad y clean architecture  
-✔️ Orientado a resolver problemas de negocio, no solo código  
+specialization:
+  - Backend Development
+  - API Architecture
+  - Scalable Systems
 
-```
-> Location  →  Colombia 🇨🇴  
-> Stack     →  Java · Spring Boot · Python · React  
-> Learning  →  Docker · Microservices · System Design  
-> Focus     →  Backend & Scalable Systems  
-> Status    →  Open to work ⚡  
+stack:
+  backend: [Java, Spring Boot, Python, FastAPI]
+  frontend: [React, TypeScript]
+  database: [PostgreSQL, MySQL]
+
+learning:
+  - Docker
+  - Microservices
+  - System Design
 ```
 
 ---
 
-## 🧠 CORE SKILLS
-
-- Arquitectura de APIs REST
-- Diseño de sistemas (System Design)
-- Bases de datos relacionales (optimización, queries)
-- Integraciones (APIs externas, automatización)
-- Desarrollo Fullstack
-
----
-
-## 🛠️ TECH STACK
+## ⚡ PROJECTS (REAL SYSTEMS)
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-00F5FF?style=for-the-badge&logo=openjdk&logoColor=0a0a0f)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-00F5FF?style=for-the-badge&logo=springboot&logoColor=0a0a0f)
-![Python](https://img.shields.io/badge/Python-FF2D78?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-FF2D78?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-B84FFF?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-B84FFF?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00F5FF?style=for-the-badge&logo=postgresql&logoColor=0a0a0f)
-![MySQL](https://img.shields.io/badge/MySQL-00F5FF?style=for-the-badge&logo=mysql&logoColor=0a0a0f)
+### 🚀 FULLSERVICE LANDING PAGE
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Tapias&repo=FullService-Landing-Page&theme=transparent&title_color=00F5FF&text_color=B84FFF&bg_color=0a0a0f"/>
 
 </div>
 
 ---
 
-## 🚀 PROJECTS
+<div align="center">
 
-### 🧩 FULLSERVICE LANDING PAGE
-> Landing page moderna y optimizada para conversión.
+### 📦 LOGITRACK — INVENTORY SYSTEM
 
-**Impacto:**
-- ⚡ Mejora en performance y UX
-- 📱 Diseño totalmente responsive
-- 🎯 Enfoque en conversión
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Tapias&repo=Proyecto&theme=transparent&title_color=00F5FF&text_color=FF2D78&bg_color=0a0a0f"/>
 
-**Stack:** React · TypeScript · Tailwind  
-
-👉 https://github.com/Juan-Tapias/FullService-Landing-Page
+</div>
 
 ---
 
-### 📦 LOGITRACK S.A — SISTEMA DE BODEGAS
-> Backend empresarial para gestión de inventarios y auditorías.
-
-**Lo importante:**
-- 🔐 Control de acceso y seguridad
-- 📊 Trazabilidad completa
-- ⚙️ Automatización de procesos
-
-**Stack:** Spring Boot · Java · SQL  
-
-👉 https://github.com/Juan-Tapias/Proyecto
-
----
+<div align="center">
 
 ### 💳 ACMEBANK
-> Aplicación web para gestión de transacciones.
 
-**Características:**
-- 💰 Transferencias y consultas
-- 🔄 Flujo completo de operaciones
-- 📈 Base para sistema financiero escalable
-
-**Stack:** JavaScript · HTML · CSS  
-
-👉 https://github.com/Juan-Tapias/ProyectoAcmeBack_JavaScript_JuanMartinez_BrigitteClaros
-
----
-
-## 📊 STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=juan-tapias&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=FF2D78&text_color=B84FFF&bg_color=0a0a0f&count_private=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-tapias&layout=compact&theme=transparent&hide_border=true&title_color=00F5FF&text_color=B84FFF&bg_color=0a0a0f" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Tapias&repo=ProyectoAcmeBack_JavaScript_JuanMartinez_BrigitteClaros&theme=transparent&title_color=00F5FF&text_color=39FF14&bg_color=0a0a0f"/>
 
 </div>
 
 ---
 
-## 📬 CONTACT
+## 📊 PERFORMANCE
 
 <div align="center">
 
-[PORTFOLIO](https://portafolio2-rose.vercel.app/)  
-MAIL: jmartineztapias15@gmail.com  
-INSTAGRAM: @juan.martinez1925  
-DISCORD: lado4376  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=juan-tapias&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=FF2D78&text_color=B84FFF&bg_color=0a0a0f"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juan-tapias&theme=dark&hide_border=true&background=0a0a0f&ring=00F5FF&fire=FF2D78&currStreakLabel=B84FFF"/>
+
+</div>
+
+---
+
+## 🌐 CONNECT
+
+<div align="center">
+
+<a href="https://portafolio2-rose.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=0a0a0f"/>
+</a>
+
+<a href="mailto:jmartineztapias15@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-FF2D78?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/juan.martinez1925">
+  <img src="https://img.shields.io/badge/INSTAGRAM-B84FFF?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
@@ -140,8 +112,6 @@ DISCORD: lado4376
 
 <div align="center">
 
-```
-▮  END OF FILE  ▮
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0a0a0f&height=120&section=footer"/>
 
 </div>
